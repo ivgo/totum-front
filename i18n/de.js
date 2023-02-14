@@ -2,7 +2,7 @@
 * TOTUM LOCALIZATION
 * */
 App.langs = App.langs || {};
-App.langs.ru =
+App.langs.de =
     {
         "locale": "de-DE",
         "dateFormat": 'DD.MM.YY',
@@ -24,23 +24,23 @@ App.langs.ru =
             table: '.pcTable-container .loading-row td {background: url("/imgs/loading_ru.png") repeat #fff;}'
         },
         modelMethods: {
-            'edit': 'Изменение',
+            'edit': 'Ändern',
 
-            'checkInsertRow': 'Предварительное добавление',
-            'duplicate': 'Дублирование',
-            'refresh_rows': 'Пересчет строк',
-            'loadPage': 'Загрузка страницы',
+            'checkInsertRow': 'Vorläufige Hinzufügung',
+            'duplicate': 'Duplizieren',
+            'refresh_rows': 'Neuberechnung von Zeilen',
+            'loadPage': 'Seite wird geladen',
 
-            'getTableData': 'Загрузка информации о таблице',
-            'refresh': 'Обновление данных таблицы',
-            'checkEditRow': 'Предварительный расчет панели',
-            'saveEditRow': 'Сохранение панели',
-            'save': 'Изменение поля',
-            'click': 'Нажатие кнопки',
-            'selectSourceTableAction': 'Вызов панели',
-            'add': 'Добавление строки',
-            'getEditSelect': 'Загрузка селекта',
-            'delete': 'Удаление'
+            'getTableData': 'Laden der Tabelleninformationen',
+            'refresh': 'Aktualisierung der Tabellendaten',
+            'checkEditRow': 'Vorläufige Berechnung des Panels',
+            'saveEditRow': 'Speichern des Panels',
+            'save': 'Ändern des Feld',
+            'click': 'Betätigen der Taste',
+            'selectSourceTableAction': 'Aufruf des Panels',
+            'add': 'Hinzufügen einer Zeile',
+            'getEditSelect': 'Laden der Selektion',
+            'delete': 'Löschen'
         },
         "translates":
             {
