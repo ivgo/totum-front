@@ -154,8 +154,8 @@ App.langs.de =
                 'Viewing <b>%s</b> from table <b>%s</b>': 'Просмотр <b>%s</b> таблицы <b>%s</b>',
                 'Editing <b>%s</b> from table <b>%s</b>': 'Редактирование <b>%s</b> таблицы <b>%s</b>',
 
-                'Adding table': 'Добавление таблицы',
-                'Adding field': 'Добавление поля',
+                'Adding table': 'Tabelle hinzufügen',
+                'Adding field': 'Ein Feld hinzufügen',
                 'Adding row to table': 'Добавление строки в таблицу',
                 'Error in %s field': 'Ошибка в поле %s',
                 'You can\'t put the Settings field type in linkToEdit': 'Нельзя тип поля Настройки выносить в linkToEdit',
