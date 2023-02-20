@@ -136,20 +136,20 @@ App.langs.de =
                 'Click hear to unlock': 'Zum Entsperren anklicken',
 
 
-                'Apply to selected': 'Применить к выделенным',
-                'Fix the selected': 'Фиксировать выделенные',
-                'Reset manuals': 'Сбросить ручные',
-                'Reset manual': 'Сбросить ручное',
+                'Apply to selected': 'Anwenden auf ausgewählte',
+                'Fix the selected': 'Fixieren der ausgewählten',
+                'Reset manuals': 'Reset manuals',
+                'Reset manual': 'Reset manual',
 
 
-                'Change in source table': 'Изменить в таблице-источнике',
-                'Add to source table': 'Добавить в таблицу-источник',
+                'Change in source table': 'Änderung in der Quelltabelle',
+                'Add to source table': 'Zur Quelltabelle hinzufügen',
 
-                'Viewing table settings': 'Просмотр настроек таблицы',
-                'Editing table settings': 'Редактирование настроек таблицы',
+                'Viewing table settings': 'Anzeigen der Tabelleneinstellungen',
+                'Editing table settings': 'Bearbeiten von Tabelleneinstellungen',
 
-                'Viewing table field': 'Просмотр поля таблицы',
-                'Editing table field': 'Редактирование поля таблицы',
+                'Viewing table field': 'Anzeigen eines Tabellenfeldes',
+                'Editing table field': 'Bearbeiten eines Tabellenfeldes',
 
                 'Viewing <b>%s</b> from table <b>%s</b>': 'Просмотр <b>%s</b> таблицы <b>%s</b>',
                 'Editing <b>%s</b> from table <b>%s</b>': 'Редактирование <b>%s</b> таблицы <b>%s</b>',
