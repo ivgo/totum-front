@@ -198,13 +198,13 @@ App.langs.de =
                 'The data is incomplete. Use the search!': 'Die Daten sind nicht vollständig. Benutzen Sie die Suche!',
 
                 'Filled "%s" field  error: %s': 'Fehler bei der Feldvervollständigung "%s": %s',
-                'Failed to load data': 'Не удалось загрузить данные',
-                'Required to save the item for file binding': 'Требуется сохранение элемента для привязки файла',
-                'Adding file': 'Добавить файл',
-                'Adding files': 'Добавить файлы',
-                'Drag and drop the file here': 'Перетащите сюда файл',
+                'Failed to load data': 'Daten können nicht hochgeladen werden',
+                'Required to save the item for file binding': 'Erfordert das Speichern eines Elements, um eine Datei zu binden',
+                'Adding file': 'Datei hinzufügen',
+                'Adding files': 'Dateien hinzufügen',
+                'Drag and drop the file here': 'Ziehen Sie die Datei per Drag & Drop hierher',
 
-                'There must be a number': 'Здесь должно быть число',
+                'There must be a number': 'Hier sollte eine Zahl stehen',
 
                 'ApplyShort': 'Прим.',
                 'InvertShort': 'Инверт.',
