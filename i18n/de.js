@@ -397,8 +397,8 @@ App.langs.de =
                 'Surely to hide the row?': 'Sicherlich um den Streit zu verbergen?',
                 'Surely to delete the row?': 'Sicherlich, um die Zeile zu löschen?',
 
-                'Surely to restore the row %s?': 'Точно восстановить строку %s?',
-                'Surely to restore %s rows?': 'Точно восстановить %s строк?',
+                'Surely to restore the row %s?': 'Sicherlich, um die Zeile %s wiederherzustellen?',
+                'Surely to restore %s rows?': 'Sicherlich um %s Zeilen wiederherzustellen?',
 
                 'Hiding %s rows': 'Скрытие %s строк',
                 'Deleting %s rows': 'Удаление %s строк',
